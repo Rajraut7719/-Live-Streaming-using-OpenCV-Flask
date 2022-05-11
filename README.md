@@ -5,10 +5,6 @@ To get this project up and running locally on your computer follow the following
 2. Run the following commands
     * pip install -r requirements.txt
     * python app.py
-   
-  
-
-   
-3. Open a browser and go to http://localhost:8000/
+3. Open a browser and go to http://localhost:5000/
 ![image](https://user-images.githubusercontent.com/96526237/167829361-b90e2ddc-039a-4a07-a030-117be6fbd570.png)
 ![image](https://user-images.githubusercontent.com/96526237/167829882-fabce156-f657-45af-8e95-a7e6c9df25bf.png)
